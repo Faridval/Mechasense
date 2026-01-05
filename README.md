@@ -312,5 +312,3 @@ This project is for educational purposes.
 ---
  
 **Mechasense** - Predictive Maintenance for Electric Motor 
-#   m e c h a s e n s e s  
- 
